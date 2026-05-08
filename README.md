@@ -20,10 +20,6 @@ Entrepreneur and product developer working at the intersection of **media, data,
 - [**pulse-sentiment-dashboard**](https://github.com/sidsays182-maker/pulse-sentiment-dashboard) — Real-time sentiment analytics on streaming social data
 - [**legis-forecast**](https://github.com/sidsays182-maker/legis-forecast) — ML model that predicts the likelihood a bill becomes law
 
-### 🌐 Connect
-
-Twitter/X · [@sidsays](https://twitter.com/sidsays)
-
 ---
 
 <sub>Open to collaborations on civic-tech, AI tooling, and media products.</sub>
