@@ -1,4 +1,4 @@
-# Hi, I'm Sid 👋
+# Hi, I'm Sundaram 👋
 
 Entrepreneur and product developer working at the intersection of **media, data, and AI**. I build tools that turn unstructured public information — news, legislation, social signals — into something useful.
 
@@ -11,8 +11,8 @@ Entrepreneur and product developer working at the intersection of **media, data,
 ### 🚀 Currently building
 
 - **Floor** — news curation and commentary platform with AI voice
-- **Indian diaspora legislation tracker** — policy monitoring for the diaspora
-- **Hate-crime tracking platform** — data-driven advocacy for Indian-Americans
+- **Legislation tracker** — policy monitoring across U.S. federal and state bills
+- **Hate-crime tracking platform** — data-driven advocacy for all Americans
 
 ### 📌 Featured projects
 
